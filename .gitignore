@@ -1,0 +1,10 @@
+# Ignorar archivos de compilación
+*.o
+*.out
+
+# Ignorar archivos de configuración local
+.env
+.vscode/
+
+# Ignorar directorios de dependencias
+avoid/
